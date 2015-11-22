@@ -59,11 +59,7 @@
       <ul class="nav navbar-nav ">
         <li class="active" style="color:#fff;"><a href="index.php">Home <span class="sr-only">(current)</span></a></li>
 		
-        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" style="color:#fff;">Hospitals<span class="caret"></span></a>
-			<ul class="dropdown-menu" role="menu">
-					
-			</ul>
-		</li>
+        <li class=""><a class="" href="hospital.php" aria-expanded="false" style="color:#fff;"> Hospitals</a>
 	
         <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" style="color:#fff;">Diseases <span class="caret"></span></a>
 			<ul class="dropdown-menu" role="menu">
@@ -71,10 +67,8 @@
 			</ul>
 		</li>
 		
-        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" style="color:#fff;"> Appointments<span class="caret"></span></a>
-			<ul class="dropdown-menu" role="menu">
-                                                
-			</ul>
+        <li class=""><a class="" href="#" aria-expanded="false" style="color:#fff;"> Appointments</a>
+			
 		</li>
       </ul>
       
